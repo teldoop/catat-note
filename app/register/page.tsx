@@ -38,7 +38,7 @@ export default function RegisterPage() {
       <div className="col-md-4">
         <div className="card shadow-sm">
           <div className="card-body">
-            <h4 className="mb-4 text-center">Register</h4>
+            <h4 className="mb-4 text-center">Buat Akun Catat Note</h4>
 
             {error && (
               <div className="alert alert-danger py-2">{error}</div>
