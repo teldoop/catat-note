@@ -8,7 +8,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="id">
-      <body>
+      <body data-bs-theme="auto">
         <Providers>{children}</Providers>
       </body>
     </html>
