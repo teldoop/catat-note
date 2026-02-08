@@ -21,6 +21,7 @@
   "devDependencies": {
     "@types/bcrypt": "^6.0.0",
     "@types/node": "^20",
+    "@types/nprogress": "^0.2.3",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "typescript": "^5"
